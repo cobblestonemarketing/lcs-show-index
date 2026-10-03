@@ -1,0 +1,2156 @@
+[
+{
+"slug": "new-york",
+"name": "New York City",
+"states": [
+"NY",
+"NJ"
+],
+"cities": [
+"New York",
+"Manhattan",
+"Brooklyn",
+"Queens",
+"Bronx",
+"Staten Island",
+"Long Island",
+"Hempstead",
+"Melville",
+"Hicksville",
+"Uniondale",
+"Islandia",
+"Yonkers",
+"White Plains",
+"Secaucus",
+"Edison",
+"Newark",
+"Jersey City",
+"Paramus",
+"Wayne",
+"Garfield",
+"Pompton Plains",
+"Randolph",
+"Parsippany",
+"Clifton",
+"Hackensack",
+"Woodbridge",
+"East Rutherford",
+"Rahway",
+"Elizabeth"
+]
+},
+{
+"slug": "los-angeles",
+"name": "Los Angeles",
+"states": [
+"CA"
+],
+"cities": [
+"Los Angeles",
+"Long Beach",
+"Anaheim",
+"Pasadena",
+"Torrance",
+"Glendale",
+"Burbank",
+"Santa Ana",
+"Irvine",
+"Costa Mesa",
+"Orange",
+"Fullerton",
+"Pomona",
+"West Covina",
+"Van Nuys",
+"Northridge",
+"Santa Clarita",
+"Downey",
+"Buena Park",
+"Cerritos",
+"Huntington Beach",
+"Garden Grove",
+"Lakewood",
+"Carson",
+"El Monte",
+"Arcadia"
+]
+},
+{
+"slug": "chicago",
+"name": "Chicago",
+"states": [
+"IL",
+"IN"
+],
+"cities": [
+"Chicago",
+"Schaumburg",
+"Rosemont",
+"Naperville",
+"Aurora",
+"Joliet",
+"Elgin",
+"Oak Brook",
+"Tinley Park",
+"Arlington Heights",
+"Des Plaines",
+"Skokie",
+"Hammond",
+"Merrillville",
+"Gary",
+"Waukegan",
+"Lombard",
+"Downers Grove",
+"Orland Park",
+"Wheaton",
+"Bolingbrook",
+"Hoffman Estates",
+"Crystal Lake",
+"St. Charles"
+]
+},
+{
+"slug": "dallas-fort-worth",
+"name": "Dallas–Fort Worth",
+"states": [
+"TX"
+],
+"cities": [
+"Dallas",
+"Fort Worth",
+"Arlington",
+"Plano",
+"Irving",
+"Frisco",
+"Grapevine",
+"Garland",
+"Mesquite",
+"McKinney",
+"Denton",
+"Allen",
+"Lewisville",
+"Carrollton",
+"Richardson",
+"Grand Prairie",
+"Mansfield",
+"Rockwall",
+"Hurst",
+"Addison"
+]
+},
+{
+"slug": "houston",
+"name": "Houston",
+"states": [
+"TX"
+],
+"cities": [
+"Houston",
+"Pasadena",
+"Katy",
+"Sugar Land",
+"The Woodlands",
+"Conroe",
+"Pearland",
+"Baytown",
+"League City",
+"Spring",
+"Humble",
+"Tomball",
+"Stafford",
+"Webster",
+"Cypress"
+]
+},
+{
+"slug": "atlanta",
+"name": "Atlanta",
+"states": [
+"GA"
+],
+"cities": [
+"Atlanta",
+"Marietta",
+"Duluth",
+"Alpharetta",
+"Kennesaw",
+"Lawrenceville",
+"Norcross",
+"Roswell",
+"Smyrna",
+"Decatur",
+"Peachtree City",
+"Buford",
+"Cumming",
+"Gainesville",
+"Stockbridge",
+"Conyers",
+"Woodstock",
+"Snellville",
+"McDonough",
+"Dalton"
+]
+},
+{
+"slug": "washington-dc",
+"name": "Washington, D.C.",
+"states": [
+"DC",
+"VA",
+"MD"
+],
+"cities": [
+"Washington",
+"Arlington",
+"Alexandria",
+"Fairfax",
+"Chantilly",
+"Dulles",
+"Manassas",
+"Leesburg",
+"Reston",
+"Herndon",
+"Woodbridge",
+"Bethesda",
+"Rockville",
+"Gaithersburg",
+"Silver Spring",
+"Laurel",
+"Bowie",
+"Upper Marlboro",
+"Timonium",
+"Frederick",
+"Fredericksburg",
+"Sterling"
+]
+},
+{
+"slug": "philadelphia",
+"name": "Philadelphia",
+"states": [
+"PA",
+"NJ",
+"DE"
+],
+"cities": [
+"Philadelphia",
+"King of Prussia",
+"Oaks",
+"Collingswood",
+"Cherry Hill",
+"Trenton",
+"Wilmington",
+"Norristown",
+"Bensalem",
+"Langhorne",
+"Media",
+"Fort Washington",
+"Blackwood",
+"Mount Laurel",
+"Plymouth Meeting",
+"Feasterville",
+"Willow Grove",
+"Hamilton",
+"Edgewater Park"
+]
+},
+{
+"slug": "miami",
+"name": "Miami–Fort Lauderdale",
+"states": [
+"FL"
+],
+"cities": [
+"Miami",
+"Fort Lauderdale",
+"Hollywood",
+"Pembroke Pines",
+"Hialeah",
+"Coral Springs",
+"Boca Raton",
+"West Palm Beach",
+"Delray Beach",
+"Pompano Beach",
+"Plantation",
+"Sunrise",
+"Davie",
+"Doral",
+"Miramar",
+"Boynton Beach",
+"Jupiter"
+]
+},
+{
+"slug": "phoenix",
+"name": "Phoenix",
+"states": [
+"AZ"
+],
+"cities": [
+"Phoenix",
+"Mesa",
+"Scottsdale",
+"Tempe",
+"Chandler",
+"Glendale",
+"Gilbert",
+"Peoria",
+"Surprise",
+"Goodyear",
+"Avondale",
+"Queen Creek"
+]
+},
+{
+"slug": "boston",
+"name": "Boston",
+"states": [
+"MA",
+"NH"
+],
+"cities": [
+"Boston",
+"Woburn",
+"Marlborough",
+"Framingham",
+"Waltham",
+"Braintree",
+"Quincy",
+"Burlington",
+"Danvers",
+"Peabody",
+"Lowell",
+"Lawrence",
+"Brockton",
+"Natick",
+"Norwood",
+"Dedham",
+"Saugus",
+"Wilmington",
+"Nashua",
+"Salem"
+]
+},
+{
+"slug": "inland-empire",
+"name": "Inland Empire",
+"states": [
+"CA"
+],
+"cities": [
+"Riverside",
+"San Bernardino",
+"Ontario",
+"Rancho Cucamonga",
+"Fontana",
+"Corona",
+"Temecula",
+"Murrieta",
+"Moreno Valley",
+"Victorville",
+"Hesperia",
+"Redlands",
+"Chino",
+"Upland",
+"Montclair",
+"Palm Springs",
+"Indio",
+"Hemet"
+]
+},
+{
+"slug": "san-francisco",
+"name": "San Francisco Bay Area",
+"states": [
+"CA"
+],
+"cities": [
+"San Francisco",
+"Oakland",
+"Berkeley",
+"Hayward",
+"Fremont",
+"San Mateo",
+"Concord",
+"Walnut Creek",
+"Pleasanton",
+"Dublin",
+"Daly City",
+"Richmond",
+"San Leandro",
+"Burlingame",
+"Redwood City",
+"Vallejo",
+"Santa Rosa",
+"Novato",
+"Livermore",
+"Antioch"
+]
+},
+{
+"slug": "detroit",
+"name": "Detroit",
+"states": [
+"MI"
+],
+"cities": [
+"Detroit",
+"Livonia",
+"Novi",
+"Warren",
+"Troy",
+"Dearborn",
+"Sterling Heights",
+"Southfield",
+"Taylor",
+"Royal Oak",
+"Madison Heights",
+"Chesterfield Township",
+"Chesterfield",
+"Clinton Township",
+"Roseville",
+"Westland",
+"Canton",
+"Ann Arbor",
+"Pontiac",
+"Auburn Hills",
+"Rochester Hills",
+"Waterford",
+"Farmington Hills",
+"Wyandotte"
+]
+},
+{
+"slug": "seattle",
+"name": "Seattle–Tacoma",
+"states": [
+"WA"
+],
+"cities": [
+"Seattle",
+"Tacoma",
+"Federal Way",
+"Bellevue",
+"Everett",
+"Kent",
+"Renton",
+"Lynnwood",
+"Redmond",
+"Auburn",
+"Puyallup",
+"Kirkland",
+"Tukwila",
+"Lakewood",
+"Marysville",
+"Bothell",
+"Olympia"
+]
+},
+{
+"slug": "minneapolis",
+"name": "Minneapolis–St. Paul",
+"states": [
+"MN",
+"WI"
+],
+"cities": [
+"Minneapolis",
+"St. Paul",
+"Saint Paul",
+"Maplewood",
+"Shakopee",
+"Bloomington",
+"Burnsville",
+"Roseville",
+"Coon Rapids",
+"Eden Prairie",
+"Plymouth",
+"Brooklyn Park",
+"Blaine",
+"Eagan",
+"Woodbury",
+"Minnetonka",
+"Maple Grove",
+"Fridley",
+"Hudson"
+]
+},
+{
+"slug": "tampa-bay",
+"name": "Tampa Bay",
+"states": [
+"FL"
+],
+"cities": [
+"Tampa",
+"St. Petersburg",
+"Saint Petersburg",
+"Clearwater",
+"Brandon",
+"Largo",
+"Pinellas Park",
+"Wesley Chapel",
+"New Port Richey",
+"Plant City",
+"Lakeland",
+"Palm Harbor",
+"Spring Hill",
+"Riverview",
+"Zephyrhills",
+"Seminole",
+"Lutz"
+]
+},
+{
+"slug": "san-diego",
+"name": "San Diego",
+"states": [
+"CA"
+],
+"cities": [
+"San Diego",
+"Chula Vista",
+"Oceanside",
+"Escondido",
+"El Cajon",
+"Carlsbad",
+"Vista",
+"San Marcos",
+"La Mesa",
+"Santee",
+"Poway",
+"National City",
+"Encinitas"
+]
+},
+{
+"slug": "denver",
+"name": "Denver",
+"states": [
+"CO"
+],
+"cities": [
+"Denver",
+"Aurora",
+"Lakewood",
+"Arvada",
+"Westminster",
+"Thornton",
+"Littleton",
+"Englewood",
+"Centennial",
+"Broomfield",
+"Boulder",
+"Longmont",
+"Castle Rock",
+"Parker",
+"Wheat Ridge",
+"Golden",
+"Loveland",
+"Greeley",
+"Fort Collins"
+]
+},
+{
+"slug": "orlando",
+"name": "Orlando",
+"states": [
+"FL"
+],
+"cities": [
+"Orlando",
+"Kissimmee",
+"Sanford",
+"Winter Park",
+"Altamonte Springs",
+"Apopka",
+"Ocoee",
+"Clermont",
+"Oviedo",
+"Winter Garden",
+"Lake Mary",
+"Leesburg",
+"Longwood",
+"Casselberry"
+]
+},
+{
+"slug": "charlotte",
+"name": "Charlotte",
+"states": [
+"NC",
+"SC"
+],
+"cities": [
+"Charlotte",
+"Concord",
+"Gastonia",
+"Rock Hill",
+"Huntersville",
+"Matthews",
+"Mooresville",
+"Monroe",
+"Kannapolis",
+"Fort Mill",
+"Hickory",
+"Statesville",
+"Salisbury"
+]
+},
+{
+"slug": "baltimore",
+"name": "Baltimore",
+"states": [
+"MD"
+],
+"cities": [
+"Baltimore",
+"Timonium",
+"Towson",
+"Glen Burnie",
+"Columbia",
+"Ellicott City",
+"Annapolis",
+"Owings Mills",
+"Catonsville",
+"Westminster",
+"Bel Air",
+"Essex",
+"Dundalk",
+"Pikesville",
+"Hunt Valley",
+"Odenton",
+"Aberdeen"
+]
+},
+{
+"slug": "st-louis",
+"name": "St. Louis",
+"states": [
+"MO",
+"IL"
+],
+"cities": [
+"St. Louis",
+"Saint Louis",
+"Arnold",
+"St. Charles",
+"Saint Charles",
+"Chesterfield",
+"Florissant",
+"St. Peters",
+"O'Fallon",
+"Belleville",
+"Collinsville",
+"Fenton",
+"Kirkwood",
+"Ballwin",
+"Wentzville",
+"Maryland Heights",
+"Edwardsville",
+"Alton",
+"Washington",
+"Festus",
+"Granite City"
+]
+},
+{
+"slug": "san-antonio",
+"name": "San Antonio",
+"states": [
+"TX"
+],
+"cities": [
+"San Antonio",
+"New Braunfels",
+"Schertz",
+"Seguin",
+"Converse",
+"Boerne",
+"Universal City",
+"Live Oak"
+]
+},
+{
+"slug": "austin",
+"name": "Austin",
+"states": [
+"TX"
+],
+"cities": [
+"Austin",
+"Round Rock",
+"Georgetown",
+"Cedar Park",
+"Pflugerville",
+"San Marcos",
+"Leander",
+"Kyle",
+"Buda"
+]
+},
+{
+"slug": "portland",
+"name": "Portland",
+"states": [
+"OR",
+"WA"
+],
+"cities": [
+"Portland",
+"Beaverton",
+"Gresham",
+"Hillsboro",
+"Vancouver",
+"Tigard",
+"Clackamas",
+"Lake Oswego",
+"Salem",
+"Oregon City",
+"Tualatin",
+"Wilsonville"
+]
+},
+{
+"slug": "sacramento",
+"name": "Sacramento",
+"states": [
+"CA"
+],
+"cities": [
+"Sacramento",
+"Roseville",
+"Elk Grove",
+"Folsom",
+"Citrus Heights",
+"Rancho Cordova",
+"Rocklin",
+"Davis",
+"Woodland",
+"Lincoln",
+"Carmichael"
+]
+},
+{
+"slug": "pittsburgh",
+"name": "Pittsburgh",
+"states": [
+"PA"
+],
+"cities": [
+"Pittsburgh",
+"Monroeville",
+"Cranberry Township",
+"Cranberry",
+"Washington",
+"Greensburg",
+"Butler",
+"Bethel Park",
+"McKeesport",
+"Canonsburg",
+"Irwin",
+"Robinson Township",
+"Wexford",
+"Moon Township",
+"Latrobe"
+]
+},
+{
+"slug": "las-vegas",
+"name": "Las Vegas",
+"states": [
+"NV"
+],
+"cities": [
+"Las Vegas",
+"Henderson",
+"North Las Vegas",
+"Paradise",
+"Summerlin"
+]
+},
+{
+"slug": "cincinnati",
+"name": "Cincinnati",
+"states": [
+"OH",
+"KY",
+"IN"
+],
+"cities": [
+"Cincinnati",
+"Sharonville",
+"Florence",
+"Covington",
+"Fairfield",
+"Hamilton",
+"Mason",
+"West Chester",
+"Erlanger",
+"Newport",
+"Blue Ash",
+"Milford",
+"Lawrenceburg",
+"Middletown"
+]
+},
+{
+"slug": "kansas-city",
+"name": "Kansas City",
+"states": [
+"MO",
+"KS"
+],
+"cities": [
+"Kansas City",
+"Olathe",
+"Overland Park",
+"Independence",
+"Lee's Summit",
+"Lees Summit",
+"Shawnee",
+"Lenexa",
+"Blue Springs",
+"Liberty",
+"Gladstone",
+"Raytown",
+"Leawood",
+"Belton"
+]
+},
+{
+"slug": "columbus",
+"name": "Columbus",
+"states": [
+"OH"
+],
+"cities": [
+"Columbus",
+"Dublin",
+"Westerville",
+"Grove City",
+"Hilliard",
+"Reynoldsburg",
+"Delaware",
+"Gahanna",
+"Newark",
+"Lancaster",
+"Marysville",
+"Pickerington"
+]
+},
+{
+"slug": "indianapolis",
+"name": "Indianapolis",
+"states": [
+"IN"
+],
+"cities": [
+"Indianapolis",
+"Carmel",
+"Fishers",
+"Noblesville",
+"Greenwood",
+"Plainfield",
+"Avon",
+"Lawrence",
+"Anderson",
+"Westfield",
+"Brownsburg",
+"Zionsville",
+"Muncie"
+]
+},
+{
+"slug": "cleveland",
+"name": "Cleveland",
+"states": [
+"OH"
+],
+"cities": [
+"Cleveland",
+"Parma",
+"Strongsville",
+"Mentor",
+"Lakewood",
+"Euclid",
+"Elyria",
+"Lorain",
+"Middleburg Heights",
+"Independence",
+"Westlake",
+"Brook Park",
+"Medina",
+"Mayfield Heights",
+"Willoughby",
+"Berea",
+"North Olmsted"
+]
+},
+{
+"slug": "nashville",
+"name": "Nashville",
+"states": [
+"TN"
+],
+"cities": [
+"Nashville",
+"Murfreesboro",
+"Franklin",
+"Antioch",
+"Hendersonville",
+"Brentwood",
+"Smyrna",
+"Clarksville",
+"Gallatin",
+"Lebanon",
+"Mt. Juliet",
+"Mount Juliet",
+"Spring Hill",
+"Columbia",
+"Cookeville",
+"Madison"
+]
+},
+{
+"slug": "san-jose",
+"name": "San Jose",
+"states": [
+"CA"
+],
+"cities": [
+"San Jose",
+"Santa Clara",
+"Sunnyvale",
+"Mountain View",
+"Milpitas",
+"Cupertino",
+"Campbell",
+"Palo Alto",
+"Gilroy",
+"Morgan Hill",
+"Los Gatos"
+]
+},
+{
+"slug": "virginia-beach",
+"name": "Virginia Beach–Norfolk",
+"states": [
+"VA",
+"NC"
+],
+"cities": [
+"Virginia Beach",
+"Norfolk",
+"Chesapeake",
+"Newport News",
+"Hampton",
+"Portsmouth",
+"Suffolk",
+"Williamsburg",
+"Yorktown"
+]
+},
+{
+"slug": "jacksonville",
+"name": "Jacksonville",
+"states": [
+"FL"
+],
+"cities": [
+"Jacksonville",
+"Orange Park",
+"St. Augustine",
+"Saint Augustine",
+"Fernandina Beach",
+"Jacksonville Beach",
+"Middleburg"
+]
+},
+{
+"slug": "providence",
+"name": "Providence",
+"states": [
+"RI",
+"MA"
+],
+"cities": [
+"Providence",
+"Warwick",
+"Cranston",
+"Pawtucket",
+"East Providence",
+"Woonsocket",
+"Fall River",
+"New Bedford",
+"Attleboro",
+"Taunton",
+"Johnston",
+"Smithfield"
+]
+},
+{
+"slug": "raleigh",
+"name": "Raleigh–Durham",
+"states": [
+"NC"
+],
+"cities": [
+"Raleigh",
+"Durham",
+"Cary",
+"Chapel Hill",
+"Apex",
+"Wake Forest",
+"Garner",
+"Holly Springs",
+"Fuquay-Varina",
+"Morrisville",
+"Creedmoor",
+"Smithfield",
+"Clayton",
+"Knightdale",
+"Wendell"
+]
+},
+{
+"slug": "milwaukee",
+"name": "Milwaukee",
+"states": [
+"WI"
+],
+"cities": [
+"Milwaukee",
+"Brookfield",
+"Waukesha",
+"West Allis",
+"Wauwatosa",
+"Oak Creek",
+"Racine",
+"Kenosha",
+"Greenfield",
+"Menomonee Falls",
+"New Berlin",
+"Franklin",
+"Pewaukee"
+]
+},
+{
+"slug": "oklahoma-city",
+"name": "Oklahoma City",
+"states": [
+"OK"
+],
+"cities": [
+"Oklahoma City",
+"Norman",
+"Edmond",
+"Moore",
+"Midwest City",
+"Yukon",
+"Del City",
+"Shawnee",
+"Mustang"
+]
+},
+{
+"slug": "louisville",
+"name": "Louisville",
+"states": [
+"KY",
+"IN"
+],
+"cities": [
+"Louisville",
+"Jeffersonville",
+"New Albany",
+"Clarksville",
+"Elizabethtown",
+"Shepherdsville",
+"Shelbyville",
+"La Grange",
+"Radcliff"
+]
+},
+{
+"slug": "richmond",
+"name": "Richmond",
+"states": [
+"VA"
+],
+"cities": [
+"Richmond",
+"Henrico",
+"Chesterfield",
+"Glen Allen",
+"Mechanicsville",
+"Midlothian",
+"Petersburg",
+"Colonial Heights",
+"Short Pump",
+"Ashland"
+]
+},
+{
+"slug": "memphis",
+"name": "Memphis",
+"states": [
+"TN",
+"MS",
+"AR"
+],
+"cities": [
+"Memphis",
+"Southaven",
+"Olive Branch",
+"Germantown",
+"Collierville",
+"Bartlett",
+"Cordova",
+"Horn Lake",
+"Hernando",
+"West Memphis",
+"Millington",
+"Arlington",
+"Lakeland",
+"Marion"
+]
+},
+{
+"slug": "salt-lake-city",
+"name": "Salt Lake City",
+"states": [
+"UT"
+],
+"cities": [
+"Salt Lake City",
+"Sandy",
+"West Valley City",
+"West Jordan",
+"South Jordan",
+"Murray",
+"Draper",
+"Layton",
+"Ogden",
+"Bountiful",
+"Taylorsville",
+"Riverton",
+"Midvale",
+"Lehi",
+"Orem",
+"Provo"
+]
+},
+{
+"slug": "birmingham",
+"name": "Birmingham",
+"states": [
+"AL"
+],
+"cities": [
+"Birmingham",
+"Hoover",
+"Gardendale",
+"Vestavia Hills",
+"Pelham",
+"Bessemer",
+"Trussville",
+"Homewood",
+"Alabaster",
+"Leeds",
+"Fultondale",
+"Mountain Brook"
+]
+},
+{
+"slug": "fresno",
+"name": "Fresno",
+"states": [
+"CA"
+],
+"cities": [
+"Fresno",
+"Clovis",
+"Madera",
+"Visalia",
+"Hanford",
+"Selma"
+]
+},
+{
+"slug": "grand-rapids",
+"name": "Grand Rapids",
+"states": [
+"MI"
+],
+"cities": [
+"Grand Rapids",
+"Wyoming",
+"Kentwood",
+"Walker",
+"Grandville",
+"Holland",
+"Muskegon",
+"Jenison",
+"Rockford",
+"Hudsonville",
+"Zeeland",
+"Norton Shores",
+"Allendale"
+]
+},
+{
+"slug": "buffalo",
+"name": "Buffalo",
+"states": [
+"NY"
+],
+"cities": [
+"Buffalo",
+"Cheektowaga",
+"Amherst",
+"Tonawanda",
+"Niagara Falls",
+"Lackawanna",
+"Lockport",
+"Orchard Park",
+"Hamburg",
+"West Seneca",
+"Depew",
+"Williamsville"
+]
+},
+{
+"slug": "hartford",
+"name": "Hartford",
+"states": [
+"CT"
+],
+"cities": [
+"Hartford",
+"New Britain",
+"West Hartford",
+"East Hartford",
+"Manchester",
+"Bristol",
+"Enfield",
+"Middletown",
+"Wethersfield",
+"Glastonbury",
+"Newington",
+"Southington",
+"Vernon"
+]
+},
+{
+"slug": "tucson",
+"name": "Tucson",
+"states": [
+"AZ"
+],
+"cities": [
+"Tucson",
+"Oro Valley",
+"Marana",
+"Sahuarita",
+"Green Valley"
+]
+},
+{
+"slug": "rochester-ny",
+"name": "Rochester, NY",
+"states": [
+"NY"
+],
+"cities": [
+"Rochester",
+"Henrietta",
+"Greece",
+"Webster",
+"Irondequoit",
+"Brighton",
+"Pittsford",
+"Penfield",
+"Gates",
+"Victor",
+"Batavia",
+"Canandaigua"
+]
+},
+{
+"slug": "tulsa",
+"name": "Tulsa",
+"states": [
+"OK"
+],
+"cities": [
+"Tulsa",
+"Broken Arrow",
+"Owasso",
+"Bixby",
+"Jenks",
+"Sand Springs",
+"Sapulpa",
+"Claremore",
+"Muskogee"
+]
+},
+{
+"slug": "omaha",
+"name": "Omaha",
+"states": [
+"NE",
+"IA"
+],
+"cities": [
+"Omaha",
+"Council Bluffs",
+"Bellevue",
+"Papillion",
+"La Vista",
+"Lincoln",
+"Elkhorn",
+"Gretna"
+]
+},
+{
+"slug": "honolulu",
+"name": "Honolulu",
+"states": [
+"HI"
+],
+"cities": [
+"Honolulu",
+"Kaneohe",
+"Aiea",
+"Pearl City",
+"Kapolei",
+"Kailua",
+"Waipahu",
+"Mililani",
+"Ewa Beach",
+"Hilo",
+"Kahului"
+]
+},
+{
+"slug": "greenville-sc",
+"name": "Greenville–Spartanburg",
+"states": [
+"SC"
+],
+"cities": [
+"Greenville",
+"Spartanburg",
+"Anderson",
+"Greer",
+"Easley",
+"Simpsonville",
+"Mauldin",
+"Gaffney",
+"Clemson"
+]
+},
+{
+"slug": "new-orleans",
+"name": "New Orleans",
+"states": [
+"LA"
+],
+"cities": [
+"New Orleans",
+"Metairie",
+"Kenner",
+"Slidell",
+"Harvey",
+"Gretna",
+"Marrero",
+"Chalmette",
+"Mandeville",
+"Covington",
+"Hammond",
+"Houma",
+"La Place",
+"LaPlace"
+]
+},
+{
+"slug": "bridgeport-stamford",
+"name": "Fairfield County, CT",
+"states": [
+"CT"
+],
+"cities": [
+"Bridgeport",
+"Stamford",
+"Norwalk",
+"Danbury",
+"Fairfield",
+"Stratford",
+"Milford",
+"Greenwich",
+"Shelton",
+"Trumbull",
+"Westport"
+]
+},
+{
+"slug": "albuquerque",
+"name": "Albuquerque",
+"states": [
+"NM"
+],
+"cities": [
+"Albuquerque",
+"Rio Rancho",
+"Santa Fe",
+"Los Lunas",
+"Bernalillo"
+]
+},
+{
+"slug": "knoxville",
+"name": "Knoxville",
+"states": [
+"TN"
+],
+"cities": [
+"Knoxville",
+"Maryville",
+"Oak Ridge",
+"Sevierville",
+"Pigeon Forge",
+"Alcoa",
+"Farragut",
+"Clinton",
+"Lenoir City",
+"Morristown",
+"Powell"
+]
+},
+{
+"slug": "albany-ny",
+"name": "Albany, NY",
+"states": [
+"NY"
+],
+"cities": [
+"Albany",
+"Schenectady",
+"Troy",
+"Saratoga Springs",
+"Clifton Park",
+"Colonie",
+"Latham",
+"Glens Falls",
+"Cohoes",
+"Rensselaer"
+]
+},
+{
+"slug": "el-paso",
+"name": "El Paso",
+"states": [
+"TX"
+],
+"cities": [
+"El Paso",
+"Socorro",
+"Horizon City",
+"Las Cruces"
+]
+},
+{
+"slug": "allentown",
+"name": "Lehigh Valley",
+"states": [
+"PA",
+"NJ"
+],
+"cities": [
+"Allentown",
+"Bethlehem",
+"Easton",
+"Whitehall",
+"Emmaus",
+"Phillipsburg",
+"Nazareth",
+"Oley",
+"Kutztown"
+]
+},
+{
+"slug": "new-haven",
+"name": "New Haven",
+"states": [
+"CT"
+],
+"cities": [
+"New Haven",
+"West Haven",
+"Hamden",
+"Meriden",
+"Wallingford",
+"Branford",
+"East Haven",
+"Waterbury",
+"Naugatuck",
+"Cheshire",
+"Orange"
+]
+},
+{
+"slug": "worcester",
+"name": "Worcester",
+"states": [
+"MA"
+],
+"cities": [
+"Worcester",
+"Shrewsbury",
+"Leominster",
+"Fitchburg",
+"Auburn",
+"Westborough",
+"Milford",
+"Southbridge",
+"Gardner"
+]
+},
+{
+"slug": "fort-myers",
+"name": "Fort Myers–Naples",
+"states": [
+"FL"
+],
+"cities": [
+"Fort Myers",
+"Cape Coral",
+"Naples",
+"Bonita Springs",
+"Estero",
+"Lehigh Acres"
+]
+},
+{
+"slug": "boise",
+"name": "Boise",
+"states": [
+"ID"
+],
+"cities": [
+"Boise",
+"Meridian",
+"Nampa",
+"Caldwell",
+"Eagle",
+"Garden City",
+"Kuna",
+"Twin Falls"
+]
+},
+{
+"slug": "dayton",
+"name": "Dayton",
+"states": [
+"OH"
+],
+"cities": [
+"Dayton",
+"Kettering",
+"Beavercreek",
+"Huber Heights",
+"Fairborn",
+"Miamisburg",
+"Centerville",
+"Springfield",
+"Xenia",
+"Troy",
+"Vandalia",
+"Englewood"
+]
+},
+{
+"slug": "colorado-springs",
+"name": "Colorado Springs",
+"states": [
+"CO"
+],
+"cities": [
+"Colorado Springs",
+"Pueblo",
+"Fountain",
+"Monument",
+"Security"
+]
+},
+{
+"slug": "greensboro",
+"name": "Greensboro–Winston-Salem",
+"states": [
+"NC"
+],
+"cities": [
+"Greensboro",
+"Winston-Salem",
+"High Point",
+"Burlington",
+"Kernersville",
+"Asheboro",
+"Thomasville",
+"Lexington",
+"Reidsville",
+"Clemmons",
+"Mocksville"
+]
+},
+{
+"slug": "des-moines",
+"name": "Des Moines",
+"states": [
+"IA"
+],
+"cities": [
+"Des Moines",
+"West Des Moines",
+"Ankeny",
+"Urbandale",
+"Johnston",
+"Altoona",
+"Clive",
+"Ames",
+"Waukee",
+"Grimes"
+]
+},
+{
+"slug": "little-rock",
+"name": "Little Rock",
+"states": [
+"AR"
+],
+"cities": [
+"Little Rock",
+"North Little Rock",
+"Conway",
+"Benton",
+"Bryant",
+"Sherwood",
+"Jacksonville",
+"Cabot",
+"Maumelle",
+"Hot Springs"
+]
+},
+{
+"slug": "akron-canton",
+"name": "Akron–Canton",
+"states": [
+"OH"
+],
+"cities": [
+"Akron",
+"Canton",
+"Cuyahoga Falls",
+"Stow",
+"Barberton",
+"North Canton",
+"Massillon",
+"Hudson",
+"Green",
+"Kent",
+"Wadsworth",
+"Alliance"
+]
+},
+{
+"slug": "syracuse",
+"name": "Syracuse",
+"states": [
+"NY"
+],
+"cities": [
+"Syracuse",
+"Liverpool",
+"Cicero",
+"Clay",
+"DeWitt",
+"Camillus",
+"Baldwinsville",
+"Fulton",
+"Oswego",
+"Utica",
+"Rome"
+]
+},
+{
+"slug": "madison",
+"name": "Madison",
+"states": [
+"WI"
+],
+"cities": [
+"Madison",
+"Middleton",
+"Sun Prairie",
+"Fitchburg",
+"Verona",
+"Janesville",
+"Beloit",
+"Stoughton"
+]
+},
+{
+"slug": "wichita",
+"name": "Wichita",
+"states": [
+"KS"
+],
+"cities": [
+"Wichita",
+"Derby",
+"Andover",
+"Hutchinson",
+"Newton",
+"Haysville",
+"Salina"
+]
+},
+{
+"slug": "chattanooga",
+"name": "Chattanooga",
+"states": [
+"TN",
+"GA"
+],
+"cities": [
+"Chattanooga",
+"Cleveland",
+"East Ridge",
+"Hixson",
+"Ooltewah",
+"Fort Oglethorpe",
+"Ringgold",
+"Dalton"
+]
+},
+{
+"slug": "toledo",
+"name": "Toledo",
+"states": [
+"OH",
+"MI"
+],
+"cities": [
+"Toledo",
+"Sylvania",
+"Perrysburg",
+"Maumee",
+"Oregon",
+"Bowling Green",
+"Findlay",
+"Monroe"
+]
+},
+{
+"slug": "scranton",
+"name": "Scranton–Wilkes-Barre",
+"states": [
+"PA"
+],
+"cities": [
+"Scranton",
+"Wilkes-Barre",
+"Hazleton",
+"Dickson City",
+"Moosic",
+"Kingston",
+"Pittston",
+"Stroudsburg"
+]
+},
+{
+"slug": "harrisburg",
+"name": "Harrisburg–York–Lancaster",
+"states": [
+"PA"
+],
+"cities": [
+"Harrisburg",
+"Hershey",
+"Mechanicsburg",
+"Camp Hill",
+"York",
+"Lancaster",
+"Lebanon",
+"Carlisle",
+"Hanover",
+"Lititz",
+"Ephrata",
+"Gettysburg",
+"Chambersburg",
+"Reading",
+"Morgantown"
+]
+},
+{
+"slug": "jackson-ms",
+"name": "Jackson, MS",
+"states": [
+"MS"
+],
+"cities": [
+"Jackson",
+"Ridgeland",
+"Pearl",
+"Brandon",
+"Flowood",
+"Madison",
+"Clinton",
+"Vicksburg",
+"Hattiesburg"
+]
+},
+{
+"slug": "huntsville",
+"name": "Huntsville",
+"states": [
+"AL"
+],
+"cities": [
+"Huntsville",
+"Madison",
+"Decatur",
+"Athens",
+"Florence",
+"Muscle Shoals",
+"Cullman"
+]
+},
+{
+"slug": "flint",
+"name": "Flint",
+"states": [
+"MI"
+],
+"cities": [
+"Flint",
+"Burton",
+"Grand Blanc",
+"Fenton",
+"Davison",
+"Flushing",
+"Swartz Creek",
+"Saginaw",
+"Bay City",
+"Midland"
+]
+},
+{
+"slug": "lansing",
+"name": "Lansing",
+"states": [
+"MI"
+],
+"cities": [
+"Lansing",
+"East Lansing",
+"Okemos",
+"DeWitt",
+"Holt",
+"Jackson",
+"Charlotte"
+]
+},
+{
+"slug": "south-bend",
+"name": "South Bend",
+"states": [
+"IN",
+"MI"
+],
+"cities": [
+"South Bend",
+"Mishawaka",
+"Elkhart",
+"Goshen",
+"Granger",
+"Plymouth",
+"La Porte",
+"Michigan City"
+]
+},
+{
+"slug": "fort-wayne",
+"name": "Fort Wayne",
+"states": [
+"IN"
+],
+"cities": [
+"Fort Wayne",
+"Auburn",
+"Huntington",
+"Warsaw",
+"New Haven",
+"Kendallville"
+]
+},
+{
+"slug": "evansville",
+"name": "Evansville",
+"states": [
+"IN",
+"KY"
+],
+"cities": [
+"Evansville",
+"Newburgh",
+"Henderson",
+"Owensboro",
+"Boonville",
+"Mount Vernon",
+"Princeton",
+"Jasper"
+]
+},
+{
+"slug": "springfield-mo",
+"name": "Springfield, MO",
+"states": [
+"MO"
+],
+"cities": [
+"Springfield",
+"Nixa",
+"Ozark",
+"Republic",
+"Branson",
+"Joplin",
+"Bolivar",
+"Lebanon"
+]
+},
+{
+"slug": "wilmington-nc",
+"name": "Wilmington, NC",
+"states": [
+"NC"
+],
+"cities": [
+"Wilmington",
+"Leland",
+"Jacksonville",
+"Southport",
+"Hampstead",
+"Myrtle Beach",
+"Conway"
+]
+},
+{
+"slug": "lexington-ky",
+"name": "Lexington, KY",
+"states": [
+"KY"
+],
+"cities": [
+"Lexington",
+"Georgetown",
+"Richmond",
+"Nicholasville",
+"Winchester",
+"Frankfort",
+"Danville",
+"Versailles"
+]
+},
+{
+"slug": "champaign",
+"name": "Central Illinois",
+"states": [
+"IL"
+],
+"cities": [
+"Champaign",
+"Urbana",
+"Bloomington",
+"Normal",
+"Peoria",
+"Springfield",
+"Decatur",
+"Mattoon",
+"Danville",
+"Pekin",
+"Effingham"
+]
+},
+{
+"slug": "green-bay",
+"name": "Green Bay–Appleton",
+"states": [
+"WI"
+],
+"cities": [
+"Green Bay",
+"Appleton",
+"Oshkosh",
+"Neenah",
+"Fond du Lac",
+"De Pere",
+"Kaukauna",
+"Manitowoc",
+"Sheboygan"
+]
+},
+{
+"slug": "northwest-arkansas",
+"name": "Northwest Arkansas",
+"states": [
+"AR",
+"MO"
+],
+"cities": [
+"Fayetteville",
+"Springdale",
+"Rogers",
+"Bentonville",
+"Fort Smith",
+"Siloam Springs",
+"Lowell"
+]
+},
+{
+"slug": "tallahassee",
+"name": "Tallahassee–Gainesville",
+"states": [
+"FL",
+"GA"
+],
+"cities": [
+"Tallahassee",
+"Gainesville",
+"Ocala",
+"Lake City",
+"Thomasville",
+"Valdosta"
+]
+},
+{
+"slug": "roanoke",
+"name": "Roanoke–Lynchburg",
+"states": [
+"VA"
+],
+"cities": [
+"Roanoke",
+"Salem",
+"Lynchburg",
+"Blacksburg",
+"Christiansburg",
+"Martinsville",
+"Danville",
+"Bedford"
+]
+},
+{
+"slug": "cedar-rapids",
+"name": "Eastern Iowa",
+"states": [
+"IA"
+],
+"cities": [
+"Cedar Rapids",
+"Iowa City",
+"Waterloo",
+"Cedar Falls",
+"Marion",
+"Coralville"
+]
+},
+{
+"slug": "portland-me",
+"name": "Portland, ME",
+"states": [
+"ME",
+"NH"
+],
+"cities": [
+"Portland",
+"South Portland",
+"Scarborough",
+"Westbrook",
+"Biddeford",
+"Saco",
+"Lewiston",
+"Auburn",
+"Portsmouth",
+"Dover",
+"Manchester",
+"Concord"
+]
+},
+{
+"slug": "hudson-valley",
+"name": "Hudson Valley",
+"states": [
+"NY"
+],
+"cities": [
+"Poughkeepsie",
+"Fishkill",
+"Newburgh",
+"Middletown",
+"Kingston",
+"Wappingers Falls",
+"Beacon",
+"Nanuet",
+"Nyack",
+"Mahopac",
+"Carmel",
+"Monroe"
+]
+},
+{
+"slug": "midsouth",
+"name": "Midsouth",
+"states": [
+"TN",
+"MS",
+"AR",
+"AL",
+"KY"
+],
+"cities": [
+"Memphis",
+"Southaven",
+"Olive Branch",
+"Germantown",
+"Collierville",
+"Bartlett",
+"Cordova",
+"Horn Lake",
+"Hernando",
+"West Memphis",
+"Jonesboro",
+"Tupelo",
+"Oxford",
+"Jackson",
+"Dyersburg",
+"Corinth",
+"Little Rock",
+"Conway",
+"Hot Springs",
+"Searcy",
+"Batesville",
+"Columbus",
+"Starkville",
+"Florence",
+"Muscle Shoals",
+"Paducah",
+"Martin",
+"Union City",
+"Paris",
+"Clarksdale",
+"Greenville",
+"Grenada"
+]
+}
+]
