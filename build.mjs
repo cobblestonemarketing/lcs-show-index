@@ -40,7 +40,8 @@ function parseList(html) {
 const US = new Set('AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY'.split(' '));
 function cityState(str) {
   if (!str) return null;
-  const m = decode(str).match(/([A-Za-z][A-Za-z .'-]*?),\s*([A-Z]{2})(?:\s+\d{5}(?:-\d{4})?)?\s*(?:,\s*(?:US|USA|United States))?\s*\)?$/);
+  // "Boston (Dorchester), MA" -> "Boston, MA"
+  const m = decode(str).replace(/\s*\([^)]*\)\s*,/g, ',').match(/([A-Za-z][A-Za-z .'-]*?),\s*([A-Z]{2})(?:\s+\d{5}(?:-\d{4})?)?\s*(?:,\s*(?:US|USA|United States))?\s*\)?$/);
   if (m && US.has(m[2])) { const c = m[1].split(/\s+-\s+|\s+—\s+|,/).pop().trim(); return { c, s: m[2] }; }
   return null;
 }
